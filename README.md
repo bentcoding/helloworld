@@ -1,3 +1,2 @@
 # helloworld
-My name is Ben and I am learning to code. I love burritos.
-second go. 
+My name is Ben and I am learning to code. Where do I begin?
